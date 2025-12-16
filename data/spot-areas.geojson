@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "spotId": "kymijoki-ahvionkoski", "name": "Ahvionkoski lupa-alue" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [26.6685, 60.8268],
+            [26.6735, 60.8268],
+            [26.6735, 60.8248],
+            [26.6685, 60.8248],
+            [26.6685, 60.8268]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "spotId": "hiitolanjoeki-kangaskoski", "name": "Kangaskoski lupa-alue" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [28.9160, 61.4457],
+            [28.9200, 61.4457],
+            [28.9200, 61.4437],
+            [28.9160, 61.4437],
+            [28.9160, 61.4457]
+          ]
+        ]
+      }
+    }
+  ]
+}

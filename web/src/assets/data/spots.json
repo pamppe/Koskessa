@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kymijoki-ahvionkoski",
+    "name": "Ahvionkoski",
+    "municipality": "Kouvola",
+    "teaser": "Klassinen koskikohde, hyvä saavutettavuus ja selkeä lupa-alue.",
+    "priceFromEur": 25,
+    "lat": 60.8259,
+    "lng": 26.6712,
+    "imageUrl": "https://picsum.photos/seed/ahvion/800/500"
+  },
+  {
+    "id": "hiitolanjoki-kangaskoski",
+    "name": "Kangaskoski",
+    "municipality": "Rautjärvi",
+    "teaser": "Lyhyt mutta monipuolinen koskijakso. Paikoin tiukkaa virtaa.",
+    "priceFromEur": 30,
+    "lat": 61.4447,
+    "lng": 28.9180,
+    "imageUrl": "https://hiitolanjoki.fi/wp-content/uploads/2023/03/Kangaskoski_ylaosa-1024x576.jpeg"
+  },
+  {
+    "id": "kitkajoki-juumakoski",
+    "name": "Juumakoski",
+    "municipality": "Kuusamo",
+    "teaser": "Maisemallinen kohde. Helppo hahmottaa kartalta ja listasta.",
+    "priceFromEur": 35,
+    "lat": 66.319,
+    "lng": 29.018,
+    "imageUrl": "https://picsum.photos/seed/juuma/800/500"
+  }
+]
