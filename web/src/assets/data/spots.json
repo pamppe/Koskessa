@@ -7,7 +7,7 @@
     "priceFromEur": 25,
     "lat": 60.8259,
     "lng": 26.6712,
-    "imageUrl": "https://picsum.photos/seed/ahvion/800/500"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ahvionkoski_1.jpg/1280px-Ahvionkoski_1.jpg"
   },
   {
     "id": "hiitolanjoki-kangaskoski",
@@ -20,13 +20,13 @@
     "imageUrl": "https://hiitolanjoki.fi/wp-content/uploads/2023/03/Kangaskoski_ylaosa-1024x576.jpeg"
   },
   {
-    "id": "kitkajoki-juumakoski",
-    "name": "Juumakoski",
+    "id": "kitkajoki",
+    "name": "Kitkajoki",
     "municipality": "Kuusamo",
     "teaser": "Maisemallinen kohde. Helppo hahmottaa kartalta ja listasta.",
     "priceFromEur": 35,
     "lat": 66.319,
     "lng": 29.018,
-    "imageUrl": "https://picsum.photos/seed/juuma/800/500"
+    "imageUrl": "https://www.vastavalo.net/albums/userpics/15260/normal_2021_06_07_4050.jpg"
   }
 ]

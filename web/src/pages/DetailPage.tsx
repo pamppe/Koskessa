@@ -1,5 +1,6 @@
 import { Link, useParams } from "react-router-dom";
 import { getSpot } from "../data/spots";
+import PageContainer from "../components/PageContainer";
 
 export default function DetailPage() {
   const { id } = useParams();
@@ -8,7 +9,7 @@ export default function DetailPage() {
   if (!spot) return <div style={{ padding: 16 }}>Kohdetta ei löytynyt.</div>;
 
   return (
-    <div style={{ maxWidth: 900, margin: "0 auto", padding: 16 }}>
+    <PageContainer>
       <Link to="/">← Takaisin</Link>
 
       <h1 style={{ marginTop: 12 }}>{spot.name}</h1>
@@ -31,6 +32,6 @@ export default function DetailPage() {
       <p style={{ marginTop: 12 }}>{spot.teaser}</p>
 
       <Link to={`/spot/${spot.id}/map`}>Näytä kartalla →</Link>
-    </div>
+    </PageContainer>
   );
 }

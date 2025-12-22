@@ -3,23 +3,46 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "spotId": "kymijoki-ahvionkoski", "name": "Ahvionkoski lupa-alue" },
+      "properties": {
+        "spotId": "kymijoki-ahvionkoski",
+        "name": "Ahvionkoski lupa-alue"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [26.6685, 60.8268],
-            [26.6735, 60.8268],
-            [26.6735, 60.8248],
-            [26.6685, 60.8248],
-            [26.6685, 60.8268]
+            [
+              26.75372352646849,
+              60.631310074113884
+            ]
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": { "spotId": "hiitolanjoki-kangaskoski", "name": "Kangaskoski lupa-alue" },
+      "properties": {
+        "spotId": "kitkajoki",
+        "name": "kitajoki lupa-alue"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.14544558393513,
+              66.30321913151153
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "spotId": "hiitolanjoki-kangaskoski",
+        "name": "Kangaskoski lupa-alue"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
