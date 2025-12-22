@@ -1,9 +1,11 @@
 import { Link } from "react-router-dom";
 import { spots } from "../data/spots";
+import PageContainer from "../components/PageContainer";
+
 
 export default function ListPage() {
   return (
-    <div style={{ maxWidth: 900, margin: "0 auto", padding: 16 }}>
+    <PageContainer>
       <h1>Koskessa</h1>
       <p>Valitse kohde listasta.</p>
 
@@ -21,6 +23,6 @@ export default function ListPage() {
           </Link>
         ))}
       </div>
-    </div>
+    </PageContainer>
   );
 }

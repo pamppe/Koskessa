@@ -6,7 +6,7 @@ import MapPage from "./pages/MapPage";
 export default function App() {
   return (
     <BrowserRouter>
-      <div style={{ padding: 12, fontSize: 12, opacity: 0.7 }}>App mounted ✅</div>
+     <div style={{ padding: 24 }}></div>
       <Routes>
         <Route path="/" element={<ListPage />} />
         <Route path="/spot/:id" element={<DetailPage />} />
