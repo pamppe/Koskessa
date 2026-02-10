@@ -6,7 +6,7 @@ Koskessa on karttapohjainen sovellusprototyyppi (MVP), jonka tarkoituksena on es
 
 ## Vaatimukset
 
-- Node.js (suositus: LTS-versio)
+- Node.js
 - npm
 - Mobiilitestausta varten:
   - Expo Go -sovellus **tai**
