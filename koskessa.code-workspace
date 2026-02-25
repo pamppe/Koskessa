@@ -1,0 +1,11 @@
+{
+  "folders": [
+    { "name": "web", "path": "web" },
+    { "name": "mobile", "path": "mobile" },
+    { "name": "root", "path": "." }
+  ],
+  "settings": {
+    "typescript.tsdk": "web/node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true
+  }
+}
